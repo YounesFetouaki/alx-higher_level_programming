@@ -15,21 +15,3 @@ new_dict = simple_delete(a_dictionary, 'c_is_fun')
 print_sorted_dictionary(a_dictionary)
 print("--")
 print_sorted_dictionary(new_dict)
-
-guillaume@ubuntu:~/0x04$ ./8-main.py
-Number: 89
-ids: [1, 2, 3]
-language: C
---
-Number: 89
-ids: [1, 2, 3]
-language: C
---
---
-Number: 89
-ids: [1, 2, 3]
-language: C
---
-Number: 89
-ids: [1, 2, 3]
-language: C
